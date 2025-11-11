@@ -42,6 +42,7 @@ h3 {
 }
 ul {
     margin-left: 2em;
+    list-style-type: circle;
 }
 
 /* the styles for the header */
